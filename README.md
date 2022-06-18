@@ -1,6 +1,6 @@
 # Fala Dev!! Tudo beleza ?
 
-- 👨🏽‍💻 - Eu me chamo [Erika Pelaez](https://www.linkedin.com/in/erikapelaez);
+- 👨🏽‍💻 - Eu me chamo [Erika Pelaez](https://www.linkedin.com/in/erikapelaez-);
 - 💜 - Atualmente sou Founder & CEO na [QueryWork](https://www.linkedin.com/company/querywork);
 - 🦄 - Somos uma Startup que contrata os melhores talentos techs para empresas referência de mercado;
 - 💸 - Constantemente temos vagas para:
